@@ -31,5 +31,21 @@ Right now I am studing Angular 5, Ionic 3, Nodejs, Google Cloud.
 
 **Universidade Alves Faria** (Brazil) - System analyst and developer - (Jan 2017 to present)
 
-Key technologies: PHP, Rest, Java, Git, Mysql.
+Key technologies: PHP, Ionic, Rest, Yii, Git, Mysql.
+
+**Posso Mais** (Brazil) - PHP developer - (May 2016 to Dec 2016)
+
+Key technologies: PHP, Rest, Zend, Git, Mysql.
+
+**Omega Tecnologia** (Brazil) - FullStack - Java - developer - (Jan 2015 to Dec 2015)
+
+Key technologies: Java, AWS, Git, Vraptor, Hibernate, JUnit.
+
+**Pacto Soluções** (Brazil) - PHP/Java developer - (Set 2013 to Dec 2014)
+
+Key technologies: PHP, Java, SVN, Postgres, JSP, JSF.
+
+**Virtua Software** (Brazil) - PHP Developer - (Aug 2012 to Set 2013)
+
+Key technologies: PHP, Pdo, Firebird
 
